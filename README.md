@@ -7,7 +7,7 @@
 
 ---
 
-## 🧭 About Me
+## 🧭 Sobre mí
 
 ```yaml
 Rol:        Estudiante & Desarrollador autodidacta
@@ -18,7 +18,7 @@ Pasión:     Aprender construyendo
 
 ---
 
-## 🚀 Projects
+## 🚀 Proyectos
 
 ### 🏡 Casa Autosustentable Modular Autogar
 📦 Contenedores inteligentes, energía solar e hidráulica, automatización con Arduino & ESP32.  
@@ -35,7 +35,7 @@ Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Herramientas
 
 <div align="center">
 
@@ -54,9 +54,9 @@ Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Aprendiendo ahora mismo
 
-- 🧠 Redes neuronales en JavaScript
+- 🧠 Redes neuronales & Deep Learning
 - 🧪 Motor de física propio con `Python` + `.ppm` rendering  
 - ⚙️ Optimizar modelos IA (Whisper, Piper...) en hardware limitado  
 - 🏡 Arquitectura de casas pasivas modulares
@@ -81,8 +81,13 @@ Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)
 💬 Si tienes algo en mente, escríbeme
 
 ## 📫 Contact
-
 - GitHub: [@deivi-code](https://github.com/deivi-code)
+- Email: [davidgrcdiaz@gmail.com](mailto:davidgrcdiaz@gmail.com)
+- X (Twitter): [@davidland__](https://x.com/davidland__)
+
+## 💬 Otros
+- Telegram [@deiviigarcia](https://t.me/deiviigarcia)
+- Discord [@david_land](https://discord.com/users/857327178974494801)
 
 ---
 
@@ -95,7 +100,7 @@ Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)
 
 ---
 
-<h3 align="center">🛠️ Build. Learn. Repeat. 🚀</h3>
+<h3 align="center">🛠️ Construye. Aprende. Repite 🚀</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/deivi-code/deivi-code/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
