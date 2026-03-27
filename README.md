@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm <span style="color:#007acc">land-code</span> 👋</h1>
+<h1 align="center">Hi there! I'm <span style="color:#007acc">Deivi</span> 👋</h1>
 
 <p align="center">
   <b>🔧 Maker · 🧠 Dev en formación · ⚡ Tech for good</b><br/>
@@ -20,18 +20,18 @@ Pasión:     Aprender construyendo
 
 ## 🚀 Projects
 
-### 🏡 Casa Autosustentable Modular  
+### 🏡 Casa Autosustentable Modular Autogar
 📦 Contenedores inteligentes, energía solar e hidráulica, automatización con Arduino & ESP32.  
 🎓 Proyecto para concursos educativos como *Teleco Games*.
-
-### 📱 Smart Tutor  
-🧮 App educativa (ESO) con IA integrada para guiar, explicar y practicar contenido.  
-🧠 Incluye modo *"encerado"* paso a paso.  
-🔧 Stack: `Next.js`, `AI Studio`, `Vercel`, `Neon`, `SSE`
 
 ### ⚽ Sada Premier  
 Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)  
 💻 Stack: `Next.js`, `Vercel`, puntuación automática
+
+### 📱 Smart Tutor  (en progreso)
+🧮 App educativa (instituto) con IA integrada para guiar, explicar y practicar contenido.  
+🧠 Incluye modo *"encerado"* paso a paso.  
+🔧 Stack: `Next.js`, `AI Studio`, `Vercel`, `Neon`, `SSE`
 
 ---
 
@@ -56,7 +56,7 @@ Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)
 
 ## 🌱 Currently Learning
 
-- 🧠 Redes neuronales en JavaScript  
+- 🧠 Redes neuronales en JavaScript
 - 🧪 Motor de física propio con `Python` + `.ppm` rendering  
 - ⚙️ Optimizar modelos IA (Whisper, Piper...) en hardware limitado  
 - 🏡 Arquitectura de casas pasivas modulares
@@ -66,15 +66,15 @@ Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=land-code&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=land-code&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deivi-code&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deivi-code&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
 ## 📫 Contact
 
-- GitHub: [@land-code](https://github.com/land-code)
+- GitHub: [@deivi-code](https://github.com/deivi-code)
 
 ---
 
@@ -89,5 +89,5 @@ Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)
 
 <h3 align="center">🛠️ Build. Learn. Repeat. 🚀</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/land-code/land-code/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/deivi-code/deivi-code/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
