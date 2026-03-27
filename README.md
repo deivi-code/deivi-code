@@ -72,6 +72,14 @@ Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)
 
 ---
 
+## 👀 What I'm looking for
+
+- Colaboraciones en proyectos tech
+- Ideas locas que merezcan construirse
+- Oportunidades para seguir aprendiendo
+
+💬 Si tienes algo en mente, escríbeme
+
 ## 📫 Contact
 
 - GitHub: [@deivi-code](https://github.com/deivi-code)
