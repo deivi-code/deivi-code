@@ -89,8 +89,8 @@ Liga de fútbol entre amigos con apuestas personalizadas (sin autenticación)
 - X (Twitter): [@davidland__](https://x.com/davidland__)
 
 ## 💬 Otros
-- Telegram [@deiviigarcia](https://t.me/deiviigarcia)
-- Discord [@david_land](https://discord.com/users/857327178974494801)
+- Telegram: [@deiviigarcia](https://t.me/deiviigarcia)
+- Discord: [@david_land](https://discord.com/users/857327178974494801)
 
 ---
 
